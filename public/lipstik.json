@@ -1,0 +1,20 @@
+ [
+    {
+      "IdProduk": 1,
+      "KodeProduk": "001",
+      "NamaProduk": "implora",
+      "HargaModal": "15000",
+      "HargaJual": "18000",
+      "HargaDiskon": "16000",
+      "Stok": 20
+    },
+    {
+      "IdProduk": 2,
+      "KodeProduk": "002",
+      "NamaProduk": "hanasui",
+      "HargaModal": "18000",
+      "HargaJual": "23000",
+      "HargaDiskon": "20000",
+      "Stok": 50
+    }
+]
